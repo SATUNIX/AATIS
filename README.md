@@ -5,7 +5,14 @@ Experimental AATIS system. Agentic Accelerator for Testing Information Systems.
 AATIS is a fully-local, modular, dynamic assistant built on AutoGen 0.6 + Ollama (LLMs), equipped with a multi-layer memory stack (STM / MTM / LTM + FAISS), Constitution-guided governance, and self-improvement loops. Capable of self inference of long term goals for improving or modifying capability.
 It can plan, research, write reports, answer questions from its own knowledge base, and even develop new tools, teams, or agents when it detects capability gaps.
 
-Under Development 
+## Under Development 
+
+## Dev Note:
+
+May take a few months since open source is not my full time. I wouldnt class this anywhere near sub-AGI even though some attributes and capabilities of self learning, self improvement, long term planning and state management described above are characteristics of a sub-AGI. With current models which can be ran efficient locally at the time of writing mid 2025, I dont see its self improvement capabilities being particularly ground breaking. but would help slightly, possibly, if it doesnt break itself which is more likely than not.
+
+Current models which run under the hood just arent quite there yet but this system is designed to enable that forward view, provide a jumping off point for the next curious mind who finds this repo. So feel free to fork it if new tech comes out with proper memory management, better models and agent governance. Just make sure the system sticks to a proper constitution / spec.
+
 ---
 
 graph TD
